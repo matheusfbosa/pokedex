@@ -3,8 +3,7 @@
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "svelte-kit dev",
-		"test": "jest --env=jsdom",
-		"coverage": "jest --env=jsdom --coverage",
+		"test": "jest --env=jsdom --coverage",
 		"build": "svelte-kit build",
 		"preview": "svelte-kit preview",
 		"check": "svelte-check --tsconfig ./tsconfig.json",
