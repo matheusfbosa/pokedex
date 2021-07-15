@@ -16,6 +16,7 @@
 		"@babel/preset-env": "^7.14.7",
 		"@babel/preset-typescript": "^7.14.5",
 		"@sveltejs/kit": "next",
+		"@sveltejs/adapter-vercel": "next",
 		"@testing-library/svelte": "^3.0.3",
 		"@types/jest": "^26.0.24",
 		"@typescript-eslint/eslint-plugin": "^4.19.0",
